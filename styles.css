@@ -1,7 +1,7 @@
 body {
   text-align: center;
-  font-family: 'Happy Monkey', cursive;
-  background: linear-gradient(#a2d2ff, #EFB0C9);
+  font-family: "Happy Monkey", cursive;
+  background: linear-gradient(#a2d2ff, #159f8c);
   color: #ffffff;
 }
 
@@ -14,21 +14,21 @@ p {
 }
 
 #bff-img {
-  width: 260px;
+  width: 300px;
   border-radius: 50%;
   border: 6px solid #769fc7;
   margin-bottom: 10px;
 }
 
 #bday-age {
-  background: #EFB0C9;
+  background: #769fc7;
   padding: 5px 10px;
   border-radius: 5px;
   margin: 5px 0 10px 0;
 }
 #bday-date {
   margin: 0;
-  background: #EFB0C9;
+  background: #769fc7;
   padding: 5px 10px;
   border-radius: 5px;
 }
@@ -65,31 +65,26 @@ p {
 }
 
 #gift-img-happy:hover {
-  background-image: url("");
+  background-image: url("https://thenewdaily.com.au/wp-content/uploads/2019/04/1610164479-ezgif.com-gif-maker-7.gif");
+  background-position: center;
 }
 
 #gift-img-hot:hover {
   background-image: url("https://64.media.tumblr.com/d8019b95120ca5b2fa0795bfaea58333/tumblr_nuhruu2pS81rpxixso2_250.gifv");
 }
 #gift-img-genius:hover {
-  background-image: url("");
-}
-
-#gift-img-badass:hover {
-  background-image: url("");
+  background-image: url("https://miro.medium.com/v2/resize:fit:640/0*Hw2iIBBIQNaflIsz.gif");
+  background-position: center;
 }
 
 #gift-img-cheers:hover {
-  background-image: url("");
+  background-image: url("https://media.tenor.com/4yTYEATOX0gAAAAC/leonardo-dicaprio-cheers.gif");
 }
 
 #footer {
+  color: white;
+  font-size: 24px;
   font-style: italic;
   width: 400px;
-  margin: 40px auto 20px;
+  margin: 20px auto;
 }
-
-a {
-  color: white;
-}
-
