@@ -65,20 +65,20 @@ p {
 }
 
 #gift-img-happy:hover {
-  background-image: url("https://thenewdaily.com.au/wp-content/uploads/2019/04/1610164479-ezgif.com-gif-maker-7.gif");
+  background-image: url("images/phoebe-excited.gif");
   background-position: center;
 }
 
 #gift-img-hot:hover {
-  background-image: url("https://64.media.tumblr.com/d8019b95120ca5b2fa0795bfaea58333/tumblr_nuhruu2pS81rpxixso2_250.gifv");
+  background-image: url("images/frieds.webp");
 }
 #gift-img-genius:hover {
-  background-image: url("https://miro.medium.com/v2/resize:fit:640/0*Hw2iIBBIQNaflIsz.gif");
+  background-image: url("images/genius.gif");
   background-position: center;
 }
 
 #gift-img-cheers:hover {
-  background-image: url("https://media.tenor.com/4yTYEATOX0gAAAAC/leonardo-dicaprio-cheers.gif");
+  background-image: url("images/leonardo-dicaprio-cheers.gif");
 }
 
 #footer {
